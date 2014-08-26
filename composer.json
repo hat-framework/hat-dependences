@@ -31,6 +31,7 @@
         "hatframework/hat-plugin-gerador":"0.1.6",
         "hatframework/hat-plugin-index":"0.1.6",
         "hatframework/hat-plugin-institucional":"0.1.6",
+        "hatframework/hat-plugin-mensagem":"0.1.0",
         "hatframework/hat-plugin-notificacao":"0.1.9",
         "hatframework/hat-plugin-pagamento":"0.1.7",
         "hatframework/hat-plugin-plugins": "0.1.9",
@@ -45,7 +46,7 @@
         "hatframework/hat-resource-database":"0.3.4",
         "hatframework/hat-resource-email":"0.3.6",
         "hatframework/hat-resource-files":"0.3.5",
-        "hatframework/hat-resource-formulario":"0.3.6",
+        "hatframework/hat-resource-formulario":"0.3.7",
         "hatframework/hat-resource-galerias":"0.3.4",
         "hatframework/hat-resource-grid":"0.3.4",
         "hatframework/hat-resource-html":"0.3.8",
@@ -61,6 +62,7 @@
         "hatframework/hat-resource-upload":"0.3.4",
         
         "hatframework/hat-template-area-admin": "0.1.2",
-        "hatframework/hat-template-core": "0.1.2"
+        "hatframework/hat-template-core": "0.1.2",
+        "hatframework/hat-template-ppdh": "0.1.1"
     }
 }
