@@ -22,7 +22,7 @@
         "hatframework/basehat": "0.1.8",
         "hatframework/hatclasses": "0.2.17",
         
-        "hatframework/hat-plugin-admin":"0.1.11",
+        "hatframework/hat-plugin-admin":"0.1.12",
         "hatframework/hat-plugin-api":"0.1.6",
         "hatframework/hat-plugin-app":"0.1.6",
         "hatframework/hat-plugin-blog":"0.1.6",
@@ -34,9 +34,9 @@
         "hatframework/hat-plugin-mensagem":"0.1.1",
         "hatframework/hat-plugin-notificacao":"0.1.10",
         "hatframework/hat-plugin-pagamento":"0.1.7",
-        "hatframework/hat-plugin-plugins": "0.2.5",
-        "hatframework/hat-plugin-site":"0.2.2",
+        "hatframework/hat-plugin-plugins": "0.2.6",
         "hatframework/hat-plugin-simplecontact":"0.1.3",
+        "hatframework/hat-plugin-site":"0.2.2",
         "hatframework/hat-plugin-usuario":"0.1.19",
         
         "hatframework/hat-resource-api": "0.3.4",
@@ -63,6 +63,6 @@
         
         "hatframework/hat-template-area-admin": "0.1.2",
         "hatframework/hat-template-core": "0.1.4",
-        "hatframework/hat-template-ppdh": "0.1.1"
+        "hatframework/hat-template-ppdh": "0.1.2"
     }
 }
