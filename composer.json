@@ -31,7 +31,7 @@
         "hatframework/hat-plugin-gerador":"0.1.7",
         "hatframework/hat-plugin-index":"0.1.6",
         "hatframework/hat-plugin-institucional":"0.1.7",
-        "hatframework/hat-plugin-mensagem":"0.1.3",
+        "hatframework/hat-plugin-mensagem":"0.1.4",
         "hatframework/hat-plugin-notificacao":"0.1.10",
         "hatframework/hat-plugin-pagamento":"0.1.7",
         "hatframework/hat-plugin-plugins": "0.2.6",
