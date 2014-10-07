@@ -23,7 +23,7 @@
         "hatframework/hatclasses": "0.2.19",
         
         "hatframework/hat-plugin-admin":"0.1.12",
-        "hatframework/hat-plugin-api":"0.1.6",
+        "hatframework/hat-plugin-api":"0.3.6",
         "hatframework/hat-plugin-app":"0.1.7",
         "hatframework/hat-plugin-blog":"0.1.6",
         "hatframework/hat-plugin-files":"0.1.7",
