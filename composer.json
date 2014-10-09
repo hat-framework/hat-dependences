@@ -23,7 +23,7 @@
         "hatframework/hatclasses": "0.2.19",
         
         "hatframework/hat-plugin-admin":"0.1.12",
-        "hatframework/hat-plugin-api":"0.3.7",
+        "hatframework/hat-plugin-api":"0.1.6",
         "hatframework/hat-plugin-app":"0.1.7",
         "hatframework/hat-plugin-blog":"0.1.6",
         "hatframework/hat-plugin-files":"0.1.7",
@@ -39,7 +39,7 @@
         "hatframework/hat-plugin-usuario":"0.1.25",
         
         
-        "hatframework/hat-resource-api": "0.3.4",
+        "hatframework/hat-resource-api": "0.3.7",
         "hatframework/hat-resource-boleto":"0.3.4",
         "hatframework/hat-resource-charts": "0.3.6",
         "hatframework/hat-resource-curl":"0.3.4",
