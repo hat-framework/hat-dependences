@@ -19,8 +19,8 @@
         "ext-json": "*",
         "php": ">=5.3.0",
         
-        "hatframework/basehat": "0.2.25",
-        "hatframework/hatclasses": "0.2.25",
+        "hatframework/basehat": "0.2.26",
+        "hatframework/hatclasses": "0.2.26",
         
         "hatframework/hat-plugin-admin":"0.1.12",
         "hatframework/hat-plugin-api":"0.1.7",
