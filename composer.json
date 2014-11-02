@@ -20,7 +20,7 @@
         "php": ">=5.3.0",
         
         "hatframework/basehat": "0.2.28",
-        "hatframework/hatclasses": "0.2.27",
+        "hatframework/hatclasses": "0.2.28",
         
         "hatframework/hat-plugin-admin":"0.1.12",
         "hatframework/hat-plugin-api":"0.1.7",
@@ -51,7 +51,7 @@
         "hatframework/hat-resource-grid":"0.3.6",
         "hatframework/hat-resource-html":"0.4.4",
         "hatframework/hat-resource-jqueryui":"0.3.6",
-        "hatframework/hat-resource-js":"0.3.11",
+        "hatframework/hat-resource-js":"0.3.12",
         "hatframework/hat-resource-menu":"0.3.9",
         "hatframework/hat-resource-mobile":"0.3.4",
         "hatframework/hat-resource-pagamento":"0.3.4",
