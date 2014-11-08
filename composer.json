@@ -41,7 +41,7 @@
         
         "hatframework/hat-resource-api": "0.3.8",
         "hatframework/hat-resource-boleto":"0.3.4",
-        "hatframework/hat-resource-charts": "0.3.6",
+        "hatframework/hat-resource-charts": "0.3.7",
         "hatframework/hat-resource-curl":"0.3.4",
         "hatframework/hat-resource-database":"0.5.6",
         "hatframework/hat-resource-email":"0.3.7",
