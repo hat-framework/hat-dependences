@@ -31,12 +31,12 @@
         "hatframework/hat-plugin-galeria":"0.1.6",
         "hatframework/hat-plugin-gerador":"0.1.7",
         "hatframework/hat-plugin-institucional":"0.1.8",
-        "hatframework/hat-plugin-mensagem":"0.1.20",
+        "hatframework/hat-plugin-mensagem":"0.1.21",
         "hatframework/hat-plugin-notificacao":"0.1.13",
         "hatframework/hat-plugin-pagamento":"0.1.9",
         "hatframework/hat-plugin-plugins": "0.3.11",
         "hatframework/hat-plugin-simplecontact":"0.1.4",
-        "hatframework/hat-plugin-site":"0.2.17",
+        "hatframework/hat-plugin-site":"0.2.18",
         "hatframework/hat-plugin-usuario":"0.2.1",
         
         
