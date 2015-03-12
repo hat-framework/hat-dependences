@@ -20,7 +20,7 @@
         "php": ">=5.3.0",
         
         "hatframework/basehat": "0.2.29",
-        "hatframework/hatclasses": "0.2.51",
+        "hatframework/hatclasses": "0.2.52",
         
         "hatframework/hat-plugin-admin":"0.1.12",
         "hatframework/hat-plugin-api":"0.1.8",
