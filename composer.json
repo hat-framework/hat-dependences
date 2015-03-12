@@ -40,13 +40,13 @@
         "hatframework/hat-plugin-usuario":"0.2.5",
         
         
-        "hatframework/hat-resource-api": "0.3.18",
+        "hatframework/hat-resource-api": "0.3.19",
         "hatframework/hat-resource-boleto":"0.3.4",
         "hatframework/hat-resource-charts": "0.3.8",
         "hatframework/hat-resource-curl":"0.3.4",
         "hatframework/hat-resource-database":"0.5.8",
         "hatframework/hat-resource-email":"0.3.7",
-        "hatframework/hat-resource-files":"0.4.1",
+        "hatframework/hat-resource-files":"0.4.2",
         "hatframework/hat-resource-formulario":"0.3.32",
         "hatframework/hat-resource-galerias":"0.3.4",
         "hatframework/hat-resource-grid":"0.3.6",
