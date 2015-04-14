@@ -45,7 +45,7 @@
         "hatframework/hat-resource-curl":"0.3.4",
         "hatframework/hat-resource-database":"0.5.10",
         "hatframework/hat-resource-email":"0.3.7",
-        "hatframework/hat-resource-files":"0.4.2",
+        "hatframework/hat-resource-files":"0.4.3",
         "hatframework/hat-resource-formulario":"0.3.37",
         "hatframework/hat-resource-galerias":"0.3.4",
         "hatframework/hat-resource-grid":"0.3.6",
