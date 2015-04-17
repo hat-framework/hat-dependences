@@ -34,7 +34,7 @@
         "hatframework/hat-plugin-mensagem":"0.1.21",
         "hatframework/hat-plugin-notificacao":"0.1.13",
         "hatframework/hat-plugin-pagamento":"0.1.9",
-        "hatframework/hat-plugin-plugins": "0.4.2",
+        "hatframework/hat-plugin-plugins": "0.4.3",
         "hatframework/hat-plugin-simplecontact":"0.1.4",
         "hatframework/hat-plugin-site":"0.2.19",
         "hatframework/hat-plugin-usuario":"0.3.6",
