@@ -20,7 +20,7 @@
         "php": ">=5.3.0",
         
         "hatframework/basehat": "0.2.30",
-        "hatframework/hatclasses": "0.2.74",
+        "hatframework/hatclasses": "0.2.75",
         
         "hatframework/hat-plugin-admin":"0.1.15",
         "hatframework/hat-plugin-api":"0.1.8",
@@ -45,7 +45,7 @@
         "hatframework/hat-resource-curl":"0.3.4",
         "hatframework/hat-resource-database":"0.5.10",
         "hatframework/hat-resource-email":"0.3.7",
-        "hatframework/hat-resource-files":"0.4.4",
+        "hatframework/hat-resource-files":"0.4.5",
         "hatframework/hat-resource-formulario":"0.3.37",
         "hatframework/hat-resource-galerias":"0.3.4",
         "hatframework/hat-resource-grid":"0.3.6",
