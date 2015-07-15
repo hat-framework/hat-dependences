@@ -36,7 +36,7 @@
         "hatframework/hat-plugin-pagamento":"0.1.9",
         "hatframework/hat-plugin-plugins": "0.4.4",
         "hatframework/hat-plugin-simplecontact":"0.1.4",
-        "hatframework/hat-plugin-site":"0.2.21",
+        "hatframework/hat-plugin-site":"0.2.22",
         "hatframework/hat-plugin-usuario":"0.3.7",
         
         "hatframework/hat-resource-api": "0.3.28",
@@ -45,7 +45,7 @@
         "hatframework/hat-resource-curl":"0.3.4",
         "hatframework/hat-resource-database":"0.5.10",
         "hatframework/hat-resource-email":"0.3.7",
-        "hatframework/hat-resource-files":"0.4.6",
+        "hatframework/hat-resource-files":"0.4.7",
         "hatframework/hat-resource-formulario":"0.3.37",
         "hatframework/hat-resource-galerias":"0.3.4",
         "hatframework/hat-resource-grid":"0.3.6",
