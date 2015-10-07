@@ -37,7 +37,7 @@
         "hatframework/hat-plugin-plugins": "0.4.9",
         "hatframework/hat-plugin-simplecontact":"0.1.4",
         "hatframework/hat-plugin-site":"0.2.25",
-        "hatframework/hat-plugin-usuario":"0.3.20",
+        "hatframework/hat-plugin-usuario":"0.3.21",
         
         "hatframework/hat-resource-api": "0.4.0",
         "hatframework/hat-resource-boleto":"0.3.4",
