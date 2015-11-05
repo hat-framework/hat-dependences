@@ -63,6 +63,9 @@
         
         "hatframework/hat-template-area-admin": "0.1.2",
         "hatframework/hat-template-core": "0.1.6",
-        "hatframework/hat-template-ppdh": "0.1.2"
+        "hatframework/hat-template-ppdh": "0.1.2",
+        
+        
+        "hat-framework/e-goi": "0.3.4"
     }
 }
