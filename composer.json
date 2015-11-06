@@ -20,7 +20,7 @@
         "php": ">=5.3.0",
         
         "hatframework/basehat": "0.2.32",
-        "hatframework/hatclasses": "0.2.83",
+        "hatframework/hatclasses": "0.2.84",
         
         "hatframework/hat-plugin-admin":"0.1.16",
         "hatframework/hat-plugin-api":"0.1.8",
@@ -37,9 +37,9 @@
         "hatframework/hat-plugin-plugins": "0.4.11",
         "hatframework/hat-plugin-simplecontact":"0.1.4",
         "hatframework/hat-plugin-site":"0.2.25",
-        "hatframework/hat-plugin-usuario":"0.3.30",
+        "hatframework/hat-plugin-usuario":"0.3.31",
         
-        "hatframework/hat-resource-api": "0.4.5",
+        "hatframework/hat-resource-api": "0.4.6",
         "hatframework/hat-resource-boleto":"0.3.4",
         "hatframework/hat-resource-charts": "0.3.8",
         "hatframework/hat-resource-curl":"0.3.4",
@@ -65,7 +65,6 @@
         "hatframework/hat-template-core": "0.1.6",
         "hatframework/hat-template-ppdh": "0.1.2",
         
-        
-        "hat-framework/e-goi": "0.3.4"
+        "hat-framework/e-goi": "0.3.5"
     }
 }
