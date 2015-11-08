@@ -39,7 +39,7 @@
         "hatframework/hat-plugin-site":"0.2.25",
         "hatframework/hat-plugin-usuario":"0.3.35",
         
-        "hatframework/hat-resource-api": "0.4.7",
+        "hatframework/hat-resource-api": "0.4.8",
         "hatframework/hat-resource-boleto":"0.3.4",
         "hatframework/hat-resource-charts": "0.3.8",
         "hatframework/hat-resource-curl":"0.3.4",
