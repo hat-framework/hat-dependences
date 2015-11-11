@@ -59,7 +59,7 @@
         "hatframework/hat-resource-server":"0.3.4",
         "hatframework/hat-resource-slider":"0.3.4",
         "hatframework/hat-resource-sms":"0.3.4",
-        "hatframework/hat-resource-upload":"0.3.8",
+        "hatframework/hat-resource-upload":"0.4.0",
         
         "hatframework/hat-template-area-admin": "0.1.2",
         "hatframework/hat-template-core": "0.1.6",
