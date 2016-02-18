@@ -36,7 +36,7 @@
         "hatframework/hat-plugin-pagamento":"0.1.*",
         "hatframework/hat-plugin-plugins": "0.4.*",
         "hatframework/hat-plugin-simplecontact":"0.1.*",
-        "hatframework/hat-plugin-site":"0.2.*",
+        "hatframework/hat-plugin-site":"0.3.*",
         "hatframework/hat-plugin-usuario":"0.5.*",
         
         "hatframework/hat-resource-api": "0.4.*",
